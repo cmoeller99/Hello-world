@@ -1,2 +1,4 @@
 # Hello-world
-read me 
+
+Hi All! 
+This is my first repository 
